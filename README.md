@@ -6,13 +6,13 @@
 
 #### Problem solving
 
-Ability to break down problems into their trivial elements and apply the scientific method. An example of this would be when I created a command line app from scratch, as well as applying a testing framework to construct my production code.
+Ability to break down problems into small ones and focus on one at a time. An example of this would be when I created a command line app from scratch, as well as applying a testing framework to construct my code.
 
 - Experience : Command line mystery challenge (week 1); mastery-quizzes challenges (week2-3); student directory created from scratch (week4) and Fizzbuzz challenge to be run from irb using the testing framework for production code.
 - Achievements : Make a small program that would give the user the ability to run, save, load the file that has all the user input. This was possible using the comma-separated value files standard library from the Ruby programming language.
 I have installed and executed Ruby gems to assist my program building and design. I have used the interactive ruby shell extensively, while pairing with members of my cohort to develop programs that interact with users.
 Have applied ruby core concepts learnt whilst practicing from the Makers Academy Mastery curriculum.
-- Evidence: AlexandraGF (GitHub, CodeWars, CodePen, freecodecamp.org, ); puzzle games using logic reasoning and problem solving.
+- Evidence: AlexandraGF (GitHub, CodeWars, CodePen, freecodecamp.org); puzzle games using logic reasoning and problem solving.
 
 #### Pairing communication
 
@@ -41,9 +41,13 @@ Languages & tools
 
 - Dev Tools
 - Ruby
+- Javascript
 - RSpec
+- Jasmine
 - Command line
 - GitHub
+- Git
+- Databases
 - HTML and CSS
 
 
@@ -68,12 +72,12 @@ Grade: 86.5%
 
 Drama certification (2004-2006)
 
-I've been acting in different plays in a Theatre.
+I've been acting in different plays in a Romanian Theatre.
 
 ## Experience
 
 Receptionist / Office Administrator
-Kellan Group PLC	September 2016 – Present
+Kellan Group PLC	September 2016 – December 2017
 27 Mortimer Street, London, W1T 3BL
 
 Sales Assistant / Cashier
