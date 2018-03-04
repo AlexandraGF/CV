@@ -12,6 +12,7 @@
 |[Bank tech test](https://github.com/AlexandraGF/bank_tech_test)| User can make deposit, withdrawal and check the account statement on command line|Ruby and Rspec|
 |[Instagram challenge](https://github.com/AlexandraGF/instagram-challenge)|A version of instagram where users can see, upload, delete, comment, like posts.| Ruby on Rails, Rspec, MVP|
 |[Bowling challenge](https://github.com/AlexandraGF/bowling-challenge)| Player can play a game of bowling in the browser|Javarscript and Jasmine for testing|
+|[Rock Paper Scissors](https://github.com/AlexandraGF/rps-challenge/blob/master/README.md)|Play rock paper scissors against the computer on the localhost|Ruby and Rspec for testing|
 
 ## Skills
 
