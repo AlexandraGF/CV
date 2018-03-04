@@ -16,29 +16,23 @@
 
 ## Skills
 
-### Fast learner
-#### Quick to learn new languages and apply them (link to bowling project when finished)
+### Fast learner - Quick to learn new languages and apply them (link to bowling project when finished)
 - Learnt Javascript and Jasmine Testing Framework within 5 days
 
-### Eye for detail
-#### Can identify small details - for bug fixing and other applications
+### Eye for detail - Can identify small details - for bug fixing and other applications
 - Spotted invoice discrepancies in a previous role
 
-### Problem solving
-#### Ability to break down problems into small ones and focus on one issue at a time
+### Problem solving - Ability to break down problems into small ones and focus on one issue at a time
 - Built a tic tac toe game in Ruby and Rspec Testing Framework by using diagramming, TDD, OO and build one feature at a time
 
-### Organised
-#### Prioritise the work flow to be done
+### Organised - Prioritise the work flow to be done
 - prioritised the tasks as receptionist duties and office admin (HR and finance)
 
 
 ## Education
-
 ### Makers Academy (PreCourse: 20th November 2017 / Course: 2nd January 2018 to 16th March 2018)
 
 A 16-week intensive development bootcamp, focusing on :
-
 - Agile methodologies
 - Object-oriented design
 - Test driven development and behaviour driven development
@@ -46,7 +40,6 @@ A 16-week intensive development bootcamp, focusing on :
 - [XP values](http://www.extremeprogramming.org/values.html)
 
 #### Languages & tools
-
 - Ruby (Rspec testing)
 - Javascript (Jasmine testing)
 - Ruby on rails
@@ -72,16 +65,13 @@ Grade: 86.5%
 
 
 ### Other qualifications
-
 Drama certification (2004-2006)
-
 
 ## Experience
 
 ### Receptionist / Office Administrator
 Kellan Group PLC	September 2016 – December 2017
 27 Mortimer Street, London, W1T 3BL
-
 - First contact point for clients, suppliers and candidates - via phone, email and face to face.
 - Booking of travel (incl. international flights) and accommodation for all staff across the group to company guidelines.
 - Tracking, maintenance and ordering of office supplies across all UK offices.
@@ -90,11 +80,9 @@ Kellan Group PLC	September 2016 – December 2017
 - Monthly office/travel finance reconciliation and following up on discrepancies.
 - Various administrative and ad hoc tasks for senior management, HR and marketing.
 
-
 ### Sales Assistant / Cashier
 Zara UK	August 2015 – August 2016
 Whiteleys, Queensway, London W2 4YN
-
 - Provided customer service, looked to Increase sales and maximise exchanges over refunds.
 - Provided sales (and other) cash register reports to management.
 - Received the delivery of goods and processed contents in the internal stock management system. Oversaw stock transfers between stores. 
@@ -102,13 +90,11 @@ Whiteleys, Queensway, London W2 4YN
 ### English Tutor, children aged 5-14
 Self employed	July 2013 – June 2015
 Bucharest
-
 - My lesson planning and teaching methods proved popular, and led to the student-base quadrupling in size - from 5 students to 20.
 
 ### Secretary / Assistant Manager
 Ophir Optics, Bucharest	June 2012 – February 2013
 Sector 3, Bucharest
-
 - General office administration, which included HR administration, ordering, supplier correspondence, administration of security/access systems and general receptionist duties.
 - Translation of documentation and technical machinery manuals between English and Romanian. Also acted as a translator during meetings as required.
 - Main point of contact for resolving all IT issues with technical support team based in Israel.
@@ -116,7 +102,6 @@ Sector 3, Bucharest
 
 
 ## Interests
-
 - Interest in technology - going to work by electric scooter
 - Improving my Spanish
 - Playing badminton
