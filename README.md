@@ -1,6 +1,6 @@
 ## Alexandra Fina
 
- A first-class master’s graduate in strategic business management, currently studying at Makers Academy in London and aiming to become a developer to solve real-world problems – with excellent communicational, organisational and IT skills, looking to expand my knowledge in a role with more responsibilities and potential career progression. Enthusiastic to apply and expand upon my analytical and negotiation experiences.
+ A junior full-stack developer with a first-class master’s in strategic business management, currently studying at Makers Academy in London, excited to solve real-world problems through code – with excellent communicational, commitment, analytical adaptable and creative skills.
 
 ## Skills
 
