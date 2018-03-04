@@ -16,21 +16,21 @@
 
 ## Skills
 
+### Fast learner
+#### Quick to learn new languages and apply them (link to bowling project when finished)
+- Learnt Javascript and Jasmine Testing Framework within 5 days
+
+### Eye for detail
+#### Can identify small details - for bug fixing and other applications
+- Spotted invoice discrepancies in a previous role
+
 ### Problem solving
+#### Ability to break down problems into small ones and focus on one issue at a time
+- Built a tic tac toe game in Ruby and Rspec Testing Framework by using diagramming, TDD, OO and build one feature at a time
 
-Ability to break down problems into small ones and focus on one at a time. An example of this would be when I created a command line app from scratch, as well as applying a testing framework to construct my code.
-
-- Experience : Command line mystery challenge (week 1); mastery-quizzes challenges (week2-3); student directory created from scratch (week4) and Fizzbuzz challenge to be run from irb using the testing framework for production code.
-- Achievements : Make a small program that would give the user the ability to run, save, load the file that has all the user input. This was possible using the comma-separated value files standard library from the Ruby programming language.
-I have installed and executed Ruby gems to assist my program building and design. I have used the interactive ruby shell extensively, while pairing with members of my cohort to develop programs that interact with users.
-Have applied ruby core concepts learnt whilst practicing from the Makers Academy Mastery curriculum.
-- Evidence: AlexandraGF (GitHub, CodeWars, CodePen, freecodecamp.org); puzzle games using logic reasoning and problem solving.
-
-### Pairing communication
-
-Pairing over weekly challenges in Ruby (solving real-world and procedural programs) and solving challenges on CodeWars (pairing using the driver/navigator switching technic, writing a clean code, refactor it using DRY, single responsibility principle to construct methods)
-
-Using the GitHub Collaboration, I'v been able to fork, clone, make a repository, presentable READMEs, contribute to your GitHub pushing remotely from my local repository, commit/push/pull/merge/fetch using version control effectively.
+### Organised
+#### Prioritise the work flow to be done
+- prioritised the tasks as receptionist duties and office admin (HR and finance)
 
 
 ## Education
