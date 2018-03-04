@@ -1,8 +1,14 @@
 ## Alexandra Fina
 
-[LinkedIn](https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [Blog](https://littleablog.com)
+[LinkedIn](https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [GitHub](https://github.com/AlexandraGF) || [Blog](https://littleablog.com)
 
- A junior full-stack developer with a first-class master’s in strategic business management, currently studying at Makers Academy in London, excited to solve real-world problems through code – with excellent communicational, commitment, analytical adaptable and creative skills.
+ A junior full-stack developer with a first-class master’s in strategic business management, completing the Makers Academy Bootcamp in Web Development on 16th March 2018 in London, excited to solve real-world problems through code – with excellent communicational, commitment, analytical adaptable and creative skills.
+ 
+ ## Projects
+ 
+| Project   | Description | Technologies |
+|---        |---          |---           |
+|[Tic Tac Toe Game](https://github.com/AlexandraGF/tic_tac_toe_tech_test)| Tic Tac Toe Game where 2 players can play x and o in a 3x3 grid on the command line on Mac| Ruby for code and Rspec for testing|
 
 ## Skills
 
