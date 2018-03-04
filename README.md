@@ -16,16 +16,16 @@
 
 ## Skills
 
-### Fast learner - Quick to learn new languages and apply them (link to bowling project when finished)
+#### Fast learner - Quick to learn new languages and apply them (link to bowling project when finished)
 - Learnt Javascript and Jasmine Testing Framework within 5 days
 
-### Eye for detail - Can identify small details - for bug fixing and other applications
+#### Eye for detail - Can identify small details - for bug fixing and other applications
 - Spotted invoice discrepancies in a previous role
 
-### Problem solving - Ability to break down problems into small ones and focus on one issue at a time
+#### Problem solving - Ability to break down problems into small ones and focus on one issue at a time
 - Built a tic tac toe game in Ruby and Rspec Testing Framework by using diagramming, TDD, OO and build one feature at a time
 
-### Organised - Prioritise the work flow to be done
+#### Organised - Prioritise the work flow to be done
 - prioritised the tasks as receptionist duties and office admin (HR and finance)
 
 
