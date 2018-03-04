@@ -1,5 +1,7 @@
 ## Alexandra Fina
 
+[LinkedIn] (https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [Blog](https://littleablog.com)
+
  A junior full-stack developer with a first-class master’s in strategic business management, currently studying at Makers Academy in London, excited to solve real-world problems through code – with excellent communicational, commitment, analytical adaptable and creative skills.
 
 ## Skills
