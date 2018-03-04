@@ -35,7 +35,7 @@ Using the GitHub Collaboration, I'v been able to fork, clone, make a repository,
 
 ## Education
 
-#### Makers Academy (PreCourse: 20th November 2017 / Course: 2nd January 2018 to 16th March 2018)
+### Makers Academy (PreCourse: 20th November 2017 / Course: 2nd January 2018 to 16th March 2018)
 
 A 16-week intensive development bootcamp, focusing on :
 
@@ -45,7 +45,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Pair programming
 - [XP values](http://www.extremeprogramming.org/values.html)
 
-##### Languages & tools
+#### Languages & tools
 
 - Ruby (Rspec testing)
 - Javascript (Jasmine testing)
@@ -55,9 +55,6 @@ A 16-week intensive development bootcamp, focusing on :
 - Git
 - Databases (Postgres and Sqlite3)
 - HTML and CSS
-
-
-## University / College
 
 ### Romanian-American University, Bucharest
 Master in Strategic Business Management	October 2011 – June 2013
