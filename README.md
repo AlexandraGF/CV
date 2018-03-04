@@ -96,9 +96,8 @@ Sector 3, Bucharest
 
 ## Interests
 
-•	Interest in technology - going to work by electric scooter
-•	Improving my Spanish and learning German
-•	Playing badminton
-•	Cooking and baking
-•	Interior design and architecture
-•	Blogging / arts and crafts
+### •	Interest in technology - going to work by electric scooter
+### •	Improving my Spanish
+### •	Playing badminton
+### •	Interior design and architecture
+### •	Blogging / arts and crafts
