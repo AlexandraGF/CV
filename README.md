@@ -2,7 +2,7 @@
 
 [LinkedIn](https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [GitHub](https://github.com/AlexandraGF) || [Blog](https://littleablog.com)
 
- A junior full-stack developer with a first-class master’s in strategic business management, completing the Makers Academy Bootcamp in Web Development on 16th March 2018 in London, excited to solve real-world problems through software – with excellent communication, analytical and creative skills.
+ A junior full-stack developer with a first-class master’s in strategic business management, completing the Makers Academy Bootcamp in Web Development on 16th March 2018 in London, keen to solve real-world problems through software – with excellent communication, analytical and creative skills.
  
  ## Projects
  
