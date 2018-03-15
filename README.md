@@ -17,7 +17,7 @@
 
 ## Skills
 
-#### Fast learner - Quick to learn new languages and apply them (link to bowling project when finished)
+#### Fast learner - Quick to learn new languages and apply them (Bowling Project)
 - Learnt Javascript and Jasmine Testing Framework within 5 days
 
 #### Eye for detail - Can identify small details - for bug fixing and other applications
