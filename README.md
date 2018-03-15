@@ -44,6 +44,8 @@ A 16-week intensive development bootcamp, focusing on :
 - Ruby (Rspec testing)
 - Javascript (Jasmine testing)
 - Ruby on rails
+- Phoenix framework 
+- Elixir (Jest for testing)
 - Command line and browser console
 - GitHub repositories
 - Git
