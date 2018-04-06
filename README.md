@@ -69,7 +69,6 @@ Diploma - Mathematics and Computer Science (A’ level equivalent)	September 200
 
 ### Receptionist / Office Administrator
 Kellan Group PLC	September 2016 – December 2017
-27 Mortimer Street, London, W1T 3BL
 - First contact point for clients, suppliers and candidates – via phone, email and face to face.
 - Various administrative and ad hoc tasks for senior management, HR and marketing.
 - Booking of travel and accommodation for all staff, booking couriers and ordering office supplies.
@@ -79,17 +78,14 @@ Kellan Group PLC	September 2016 – December 2017
 
 ### Sales Assistant / Cashier
 Zara UK	August 2015 – August 2016
-Whiteleys, Queensway, London W2 4YN
 - Provided customer service, cash register reports to management and received delivery of goods.
 
 ### English Tutor, children aged 5-14
 Self employed	July 2013 – June 2015
-Bucharest
 - My lesson planning and teaching methods proved popular, and led to the student-base quadrupling in size - from 5 students to 20.
 
 ### Secretary / Assistant Manager
 Ophir Optics, Bucharest	June 2012 – February 2013
-Sector 3, Bucharest
 - Various administrative and ad hoc tasks for senior management and HR. 
 - Main point of contact for resolving all IT issues with technical support team based in Israel.
 - Translation of technical machinery manuals and meetings between English and Romanian. 
