@@ -2,7 +2,7 @@
 
 [LinkedIn](https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [GitHub](https://github.com/AlexandraGF) || [Blog](https://littleablog.com)
 
- A junior full-stack developer with a first-class master’s in strategic business management, completing the Makers Academy Bootcamp in Web Development on 16th March 2018 in London, keen to solve real-world problems through software – with excellent communication, analytical and creative skills.
+ A junior full-stack developer with a first-class master’s in strategic business management, completing the Makers Academy Bootcamp in Web Development on March 2018, keen to solve real-world problems through software – with excellent communication, analytical and creative skills.
  
  ## Projects
  
@@ -27,7 +27,7 @@
 - Built a tic tac toe game in Ruby and Rspec Testing Framework by using diagramming, TDD, OO and build one feature at a time
 
 #### Organised - Prioritise the work flow to be done
-- prioritised the tasks as receptionist duties and office admin (HR and finance)
+- Prioritised the tasks as receptionist duties and office admin (HR and finance)
 
 
 ## Education
@@ -63,32 +63,24 @@ Grade: First Class Honours, ranked 5th out of 181 graduates
 
 ### Gheorghe Lazar National College, Bucharest
 Diploma - Mathematics and Computer Science (A’ level equivalent)	September 2004 – June 2008
-Grade: 86.5%
---- Modules studied: mathematics, English, IT, biology, chemistry.
 
-
-### Other qualifications
-Drama certification (2004-2006)
 
 ## Experience
 
 ### Receptionist / Office Administrator
 Kellan Group PLC	September 2016 – December 2017
 27 Mortimer Street, London, W1T 3BL
-- First contact point for clients, suppliers and candidates - via phone, email and face to face.
-- Booking of travel (incl. international flights) and accommodation for all staff across the group to company guidelines.
-- Tracking, maintenance and ordering of office supplies across all UK offices.
-- Liaising with suppliers - negotiating best prices, problem solving and following up.
-- Booking couriers between all UK offices and franking post for clients/candidates.
-- Monthly office/travel finance reconciliation and following up on discrepancies.
+- First contact point for clients, suppliers and candidates – via phone, email and face to face.
 - Various administrative and ad hoc tasks for senior management, HR and marketing.
+- Booking of travel and accommodation for all staff, booking couriers and ordering office supplies.
+- Liaising with suppliers – negotiating best prices, problem solving and following up.
+- Monthly office/travel finance reconciliation and following up on discrepancies.
+
 
 ### Sales Assistant / Cashier
 Zara UK	August 2015 – August 2016
 Whiteleys, Queensway, London W2 4YN
-- Provided customer service, looked to Increase sales and maximise exchanges over refunds.
-- Provided sales (and other) cash register reports to management.
-- Received the delivery of goods and processed contents in the internal stock management system. Oversaw stock transfers between stores. 
+- Provided customer service, cash register reports to management and received delivery of goods.
 
 ### English Tutor, children aged 5-14
 Self employed	July 2013 – June 2015
@@ -98,15 +90,17 @@ Bucharest
 ### Secretary / Assistant Manager
 Ophir Optics, Bucharest	June 2012 – February 2013
 Sector 3, Bucharest
-- General office administration, which included HR administration, ordering, supplier correspondence, administration of security/access systems and general receptionist duties.
-- Translation of documentation and technical machinery manuals between English and Romanian. Also acted as a translator during meetings as required.
+- Various administrative and ad hoc tasks for senior management and HR. 
 - Main point of contact for resolving all IT issues with technical support team based in Israel.
-- Assisted with paperwork during the product import/export processes as required.
+- Translation of technical machinery manuals and meetings between English and Romanian. 
 
+
+### Other qualifications
+Drama certification (2004-2006)
 
 ## Interests
 - Interest in technology - going to work by electric scooter
-- Improving my Spanish
+- Improving my Spanish and learning German (Duolingo)
 - Playing badminton
 - Interior design and architecture
 - [Blogging](https://littleablog.com) / arts and crafts
