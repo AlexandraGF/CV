@@ -8,8 +8,8 @@
  
 | Project   | Description | Technologies |
 |---        |---          |---           |
+|[Dobble Game](https://github.com/AlexandraGF/dobbleGame)| 2 players try to match a symbol from his card with the Game Deck Cards and the player that has more cards at the end wins the game. | JavaScript, jQuery, CSS and Jasmine for testing|
 |[PickABook](https://github.com/AlexandraGF/pick_a_book_v2)| Final project at Makers Academy in a team - User can be part of the PickABook community by signing up, adding books to swap with other users | Elixir - back end, Phoenix framework, React - front end, Jest and Enzyme for testing, postgres for database|
-|[Tic Tac Toe Game](https://github.com/AlexandraGF/tic_tac_toe_tech_test)| Tic Tac Toe Game where 2 players can play x and o in a 3x3 grid on the command line on Mac| Ruby and Rspec for testing|
 |[Bank tech test](https://github.com/AlexandraGF/bank_tech_test)| User can make deposit, withdrawal and check the account statement on command line|Ruby and Rspec|
 |[Instagram challenge](https://github.com/AlexandraGF/instagram-challenge)|A version of instagram where users can see, upload, delete, comment, like posts.| Ruby on Rails, Rspec, MVP|
 |[Bowling challenge](https://github.com/AlexandraGF/bowling-challenge)| Player can play a game of bowling in the browser|Javarscript and Jasmine for testing|
