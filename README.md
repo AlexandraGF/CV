@@ -96,7 +96,7 @@ Drama certification (2004-2006)
 
 ## Interests
 - Interest in technology - going to work by electric scooter
-- Improving my Spanish and learning German (Duolingo)
+- Improving my Spanish and learning German
 - Playing badminton
 - Interior design and architecture
 - [Blogging](https://littleablog.com) / arts and crafts
