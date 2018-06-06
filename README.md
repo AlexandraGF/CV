@@ -8,6 +8,7 @@
  
 | Project   | Description | Technologies |
 |---        |---          |---           |
+|[Tic Tac Toe Game](https://github.com/AlexandraGF/ticTacToeJs)| 2 players, first to have a full line of 3 exact characters (horizontally, vertically or diagonally) wins. [Try it!](https://alexandragf.github.io/ticTacToeJs/)| JavaScript, CSS and Jasmine for testing|
 |[Funny Story](https://github.com/AlexandraGF/funnyStory-JavaScript)| Write two names, choose 13 options annd then make your funny story. [Try it!](https://alexandragf.github.io/funnyStory-JavaScript/)| JavaScript, jQuery, CSS and Jasmine for testing|
 |[Dobble Game](https://github.com/AlexandraGF/dobbleGame)| The player that is quicker to match a symbol from his card with the Game Deck Cards wins the card and another Deck Card is released. The player that has more cards at the end wins the game. | JavaScript, jQuery, CSS and Jasmine for testing|
 |[PickABook](https://github.com/AlexandraGF/pick_a_book_v2)| Final project at Makers Academy in a team - User can be part of the PickABook community by signing up, adding books to swap with other users | Elixir - back end, Phoenix framework, React - front end, Jest and Enzyme for testing, postgres for database|
