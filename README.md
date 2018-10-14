@@ -1,8 +1,8 @@
 ## Alexandra Fina
 
-[LinkedIn](https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [GitHub](https://github.com/AlexandraGF) || [Blog](https://littleablog.com)
+[LinkedIn](https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [GitHub](https://github.com/AlexandraGF)
 
- A junior full-stack developer with a first-class master’s in strategic business management, completing the Makers Academy Bootcamp in Web Development on March 2018, keen to solve real-world problems through software – with excellent communication, analytical and creative skills.
+ Junior Full-Stack Software Developer available immediately due to changing business priorities at Pottermore, where I worked as a Junior Developer until October 2018. Completed the Makers Academy Bootcamp in Web Development in March 2018 and with a first-class Master’s in Strategic Business Management, keen to solve real-world problems through software – with excellent communication, analytical and creative skills. 
  
  ## Projects
  
@@ -12,10 +12,6 @@
 |[Funny Story](https://github.com/AlexandraGF/funnyStory-JavaScript)| Write two names, choose 13 options annd then make your funny story. [Try it!](https://alexandragf.github.io/funnyStory-JavaScript/)| JavaScript, jQuery, CSS and Jasmine for testing|
 |[Dobble Game](https://github.com/AlexandraGF/dobbleGame)| The player that is quicker to match a symbol from his card with the Game Deck Cards wins the card and another Deck Card is released. The player that has more cards at the end wins the game. | JavaScript, jQuery, CSS and Jasmine for testing|
 |[PickABook](https://github.com/AlexandraGF/pick_a_book_v2)| Final project at Makers Academy in a team - User can be part of the PickABook community by signing up, adding books to swap with other users | Elixir - back end, Phoenix framework, React - front end, Jest and Enzyme for testing, postgres for database|
-|[Bank tech test](https://github.com/AlexandraGF/bank_tech_test)| User can make deposit, withdrawal and check the account statement on command line|Ruby and Rspec|
-|[Instagram challenge](https://github.com/AlexandraGF/instagram-challenge)|A version of instagram where users can see, upload, delete, comment, like posts.| Ruby on Rails, Rspec, MVP|
-|[Bowling challenge](https://github.com/AlexandraGF/bowling-challenge)| Player can play a game of bowling in the browser|Javarscript and Jasmine for testing|
-|[Rock Paper Scissors](https://github.com/AlexandraGF/rps-challenge)|Play rock paper scissors against the computer on the localhost|Ruby and Rspec for testing|
 
 ## Skills
 
@@ -69,6 +65,16 @@ Diploma - Mathematics and Computer Science (A’ level equivalent)	September 200
 
 ## Experience
 
+### Junior Developer
+Pottermore  July 2018 - October 2018 
+
+Worked in a scrum team to develop and maintain the existing website and applications, as well as developing new products. Left on 11th October due to a flagship product postponement and resulting team restructuring.
+- Front-end development (ReactJs and Javascript) and bug fixing using ReactJS. For example: created reusable components, created breakpoints, component testing using Jest, created and reviewed pull requests and assisted with go-lives.
+- Regular sprint planning and collaboration with other USA-based sprint teams.
+- Liaising with business and graphic designers to understand and deliver on requirements.
+- Management of tickets in JIRA.
+
+
 ### Receptionist / Office Administrator
 Kellan Group PLC	September 2016 – December 2017
 - First contact point for clients, suppliers and candidates – via phone, email and face to face.
@@ -98,7 +104,6 @@ Drama certification (2004-2006)
 
 ## Interests
 - Interest in technology - going to work by electric scooter
-- Improving my Spanish and learning German
+- Improving my Spanish
 - Playing badminton
 - Interior design and architecture
-- [Blogging](https://littleablog.com) / arts and crafts
