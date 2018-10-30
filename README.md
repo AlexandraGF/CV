@@ -2,12 +2,15 @@
 
 [LinkedIn](https://uk.linkedin.com/in/alexandra-fina-0418aab2) || [GitHub](https://github.com/AlexandraGF)
 
+[Website CV in React](https://alexandra-cv.herokuapp.com)
+
  Junior Full-Stack Software Developer available immediately due to changing business priorities at Pottermore, where I worked as a Junior Developer until October 2018. Completed the Makers Academy Bootcamp in Web Development in March 2018 and with a first-class Master’s in Strategic Business Management, keen to solve real-world problems through software – with excellent communication, analytical and creative skills. 
  
  ## Projects
  
 | Project   | Description | Technologies |
 |---        |---          |---           |
+|[Puzzle Game in React](https://github.com/AlexandraGF/PuzzleGame)| Puzzle Game developed in React. [Try it!](https://puzzlegamereact.herokuapp.com)| React JS, SCSS and Jest for testing|
 |[Tic Tac Toe Game](https://github.com/AlexandraGF/ticTacToeJs)| 2 players, first to have a full line of 3 exact characters (horizontally, vertically or diagonally) wins. [Try it!](https://alexandragf.github.io/ticTacToeJs/)| JavaScript, CSS and Jasmine for testing|
 |[Funny Story](https://github.com/AlexandraGF/funnyStory-JavaScript)| Write two names, choose 13 options annd then make your funny story. [Try it!](https://alexandragf.github.io/funnyStory-JavaScript/)| JavaScript, jQuery, CSS and Jasmine for testing|
 |[Dobble Game](https://github.com/AlexandraGF/dobbleGame)| The player that is quicker to match a symbol from his card with the Game Deck Cards wins the card and another Deck Card is released. The player that has more cards at the end wins the game. | JavaScript, jQuery, CSS and Jasmine for testing|
